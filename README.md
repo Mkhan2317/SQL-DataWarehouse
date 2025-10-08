@@ -249,7 +249,7 @@ You'll see: "Data Refreshed Successfully!"
 
 ## Author
 
-**AMIR KHAN** - Data Engineer and SQL Developer
+**AMIR KHAN** - Data Analyst/Engineer and Financial Engineer
 
 This project demonstrates expertise in:
 - PostgreSQL database design and optimization
